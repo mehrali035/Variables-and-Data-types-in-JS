@@ -1,14 +1,19 @@
 # Variables-and-Data-types-in-JS
 
+
 /****👉 values and variables in JavaScript ****/
 
  
  
  
- var myname = 'Mehr Ali'
- var myage = 26;
- console.log(myname);
- console.log(myage);
+var myname = 'Mehr Ali'
+
+var myage = 26;
+ 
+ 
+console.log(myname);
+
+console.log(myage);
 
 
 
@@ -95,17 +100,24 @@ var iAmUseless = null;
  
  
  NaN === NaN;   = false
+ 
  Number.NaN === NaN; false
+ 
  isNaN(NaN);            true
+ 
  isNaN(Number.NaN); true
+ 
  Number.isNaN(NaN);  true
 
 
 
 
 console.log(NaN === NaN);
- console.log(Number.NaN === NaN);
- console.log( (isNaN)(NaN));
- console.log(Number.isNaN (NaN));
+
+console.log(Number.NaN === NaN);
+
+console.log( (isNaN)(NaN));
+
+console.log(Number.isNaN (NaN));
 
 
