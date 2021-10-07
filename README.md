@@ -23,6 +23,7 @@ console.log(myage);
 
 
 var myname = 'Mehr Ali Malik'  
+ 
  console.log(typeof(myname)); 
 
   
@@ -30,8 +31,10 @@ var myname = 'Mehr Ali Malik'
   
   
   var iammehr = true; 
-    console.log(iammehr);
-    console.log(typeof(iammehr));
+   
+   console.log(iammehr);
+   
+   console.log(typeof(iammehr));
 
  
  
@@ -83,13 +86,17 @@ console.log(false - true);            =-1
 
 
 var iAmUseless = null;
+ 
  console.log(iAmUseless);           =null (this is bug)
+ 
  console.log(typeof(iAmUseless));  
 
  
  
  var iamstandby;      
+ 
  console.log(iamstandby);
+ 
  console.log(typeof(iamstandby));  = undefined
 
 
